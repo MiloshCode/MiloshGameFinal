@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="left-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="20">
+ <tileset firstgid="1" source="tileset_gutter.tsx"/>
+ <layer id="1" name="Graphjics" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1zEKgDAQBMA0/kEFu3T5//+0sBBBkaBc1CmmvdsshJCcUsrAqw2LcWMKmhGdRQ/xu1vLEr3/bE7NDADgebVvf1lF54/u4Wv08M8uov8RrXStBz20kKXsRJ0dOOZ+AsC9OuC1egAA4LIZuw9yzw==
+  </data>
+ </layer>
+ <objectgroup id="2" name="Ground">
+  <object id="4" x="0" y="144" width="3840" height="64"/>
+  <object id="9" x="-16" y="0" width="16" height="208"/>
+  <object id="15" x="144" y="112" width="31.9091" height="5.90909"/>
+  <object id="17" x="240" y="96" width="63.8182" height="5.81818"/>
+  <object id="18" x="368" y="64" width="31.9091" height="5.90909"/>
+ </objectgroup>
+</map>
